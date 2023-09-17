@@ -1,0 +1,48 @@
+﻿  Robot.cpp
+d:\development\2dgranularmotion\2dgranularmotion\robot.cpp(11): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+d:\development\2dgranularmotion\2dgranularmotion\robot.cpp(34): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+d:\development\2dgranularmotion\2dgranularmotion\robot.cpp(35): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+d:\development\2dgranularmotion\2dgranularmotion\robot.cpp(652): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+d:\development\2dgranularmotion\2dgranularmotion\robot.cpp(662): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+d:\development\2dgranularmotion\2dgranularmotion\robot.cpp(782): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+d:\development\2dgranularmotion\2dgranularmotion\robot.cpp(783): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+d:\development\2dgranularmotion\2dgranularmotion\robot.cpp(785): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+d:\development\2dgranularmotion\2dgranularmotion\robot.cpp(786): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+d:\development\2dgranularmotion\2dgranularmotion\robot.cpp(790): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+d:\development\2dgranularmotion\2dgranularmotion\robot.cpp(791): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+d:\development\2dgranularmotion\2dgranularmotion\robot.cpp(793): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+d:\development\2dgranularmotion\2dgranularmotion\robot.cpp(794): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+d:\development\2dgranularmotion\2dgranularmotion\robot.cpp(802): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+d:\development\2dgranularmotion\2dgranularmotion\robot.cpp(808): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+d:\development\2dgranularmotion\2dgranularmotion\robot.cpp(812): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+d:\development\2dgranularmotion\2dgranularmotion\robot.cpp(834): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+d:\development\2dgranularmotion\2dgranularmotion\robot.cpp(834): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+d:\development\2dgranularmotion\2dgranularmotion\robot.cpp(865): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+d:\development\2dgranularmotion\2dgranularmotion\robot.cpp(866): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+d:\development\2dgranularmotion\2dgranularmotion\robot.cpp(930): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+d:\development\2dgranularmotion\2dgranularmotion\robot.cpp(931): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+d:\development\2dgranularmotion\2dgranularmotion\robot.cpp(985): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+d:\development\2dgranularmotion\2dgranularmotion\robot.cpp(986): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+d:\development\2dgranularmotion\2dgranularmotion\robot.cpp(1047): warning C4244: 'argument' : conversion from 'float' to 'sf::Uint8', possible loss of data
+d:\development\2dgranularmotion\2dgranularmotion\robot.cpp(1052): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+d:\development\2dgranularmotion\2dgranularmotion\robot.cpp(1053): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+d:\development\2dgranularmotion\2dgranularmotion\robot.cpp(1269): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+d:\development\2dgranularmotion\2dgranularmotion\robot.cpp(1270): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+d:\development\2dgranularmotion\2dgranularmotion\robot.cpp(1276): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+d:\development\2dgranularmotion\2dgranularmotion\robot.cpp(1277): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+d:\development\2dgranularmotion\2dgranularmotion\robot.cpp(1305): warning C4800: 'unsigned int' : forcing value to bool 'true' or 'false' (performance warning)
+  Module.cpp
+  Face.cpp
+d:\development\2dgranularmotion\2dgranularmotion\face.cpp(200): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+d:\development\2dgranularmotion\2dgranularmotion\face.cpp(201): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+  Environment.cpp
+d:\development\2dgranularmotion\2dgranularmotion\environment.cpp(171): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+d:\development\2dgranularmotion\2dgranularmotion\environment.cpp(172): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+  Config.cpp
+d:\development\2dgranularmotion\2dgranularmotion\config.cpp(24): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+d:\development\2dgranularmotion\2dgranularmotion\config.cpp(28): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+d:\development\2dgranularmotion\2dgranularmotion\config.cpp(44): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+  2DGranularMotion.cpp
+  Generating Code...
+d:\development\2dgranularmotion\2dgranularmotion\module.cpp(441): warning C4715: 'Module::HasNeighbour' : not all control paths return a value
+  2DGranularMotion.vcxproj -> D:\Development\2DGranularMotion\Debug\2DGranularMotion.exe

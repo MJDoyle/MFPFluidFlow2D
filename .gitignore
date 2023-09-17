@@ -1,0 +1,39 @@
+# This .gitignore file should be placed at the root of your Unity project directory
+#
+# Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
+#
+
+/[Bb]uild/
+/[Dd]ebug/
+/[Rr]elease/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/ipch/
+
+#Debug/Release
+modularroboticsode/Debug/
+modularroboticsode/Release/
+
+# Visual Studio cache directory
+.vs/
+
+# Visual Studio cache directory
+.vsconfig
+
+# Gradle cache directory
+.gradle/
+
+#Window Capture
+uWindowCapture.log
+
+
+# Crashlytics generated file
+crashlytics-build.properties
+
+# Packed Addressables
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+
+# Temporary auto-generated Android Assets
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*

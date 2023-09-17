@@ -1,0 +1,49 @@
+﻿  2DGranularMotion.cpp
+  Config.cpp
+Config.cpp(24): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+Config.cpp(28): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+Config.cpp(44): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+  Environment.cpp
+Environment.cpp(171): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+Environment.cpp(172): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+  Face.cpp
+Face.cpp(200): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+Face.cpp(201): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+  Module.cpp
+  Robot.cpp
+Robot.cpp(11): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+Robot.cpp(34): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+Robot.cpp(35): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+Robot.cpp(652): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+Robot.cpp(662): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+Robot.cpp(782): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+Robot.cpp(783): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+Robot.cpp(785): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+Robot.cpp(786): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+Robot.cpp(790): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+Robot.cpp(791): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+Robot.cpp(793): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+Robot.cpp(794): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+Robot.cpp(802): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+Robot.cpp(808): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+Robot.cpp(812): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+Robot.cpp(834): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+Robot.cpp(834): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+Robot.cpp(865): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+Robot.cpp(866): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+Robot.cpp(930): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+Robot.cpp(931): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+Robot.cpp(985): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+Robot.cpp(986): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+Robot.cpp(1047): warning C4244: 'argument' : conversion from 'float' to 'sf::Uint8', possible loss of data
+Robot.cpp(1052): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+Robot.cpp(1053): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+Robot.cpp(1269): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+Robot.cpp(1270): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+Robot.cpp(1276): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+Robot.cpp(1277): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+Robot.cpp(1305): warning C4800: 'unsigned int' : forcing value to bool 'true' or 'false' (performance warning)
+  Generating code
+d:\development\2dgranularmotion\2dgranularmotion\module.cpp(441): warning C4715: 'Module::HasNeighbour' : not all control paths return a value
+  Finished generating code
+  2DGranularMotion.vcxproj -> D:\Development\2DGranularMotion\Release\2DGranularMotion.exe

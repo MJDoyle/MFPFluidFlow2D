@@ -1,0 +1,60 @@
+﻿Build started 10/03/2017 20:22:34.
+     1>Project "G:\Users\MD\Google Drive\PhD\Modular Robotics\2DGranularMotion\2DGranularMotion\2DGranularMotion.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\2DGranularMotion.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\MD\Downloads\boost_1_55_0\boost_1_55_0 /I"TGUI-0.6\include\\" /I"C:\Users\uos\Google Drive\PhD\Modular Robotics\2DGranularMotion\2DGranularMotion" /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Robot.cpp
+         Robot.cpp
+     1>Robot.cpp(11): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Robot.cpp(34): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>Robot.cpp(35): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>Robot.cpp(652): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>Robot.cpp(662): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>Robot.cpp(782): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Robot.cpp(783): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Robot.cpp(785): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Robot.cpp(786): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Robot.cpp(790): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Robot.cpp(791): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Robot.cpp(793): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Robot.cpp(794): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Robot.cpp(802): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>Robot.cpp(808): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Robot.cpp(812): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Robot.cpp(834): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>Robot.cpp(834): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>Robot.cpp(865): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Robot.cpp(866): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Robot.cpp(930): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Robot.cpp(931): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Robot.cpp(985): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Robot.cpp(986): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Robot.cpp(1047): warning C4244: 'argument' : conversion from 'float' to 'sf::Uint8', possible loss of data
+     1>Robot.cpp(1052): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Robot.cpp(1053): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Robot.cpp(1269): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>Robot.cpp(1270): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>Robot.cpp(1276): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Robot.cpp(1277): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Robot.cpp(1305): warning C4800: 'unsigned int' : forcing value to bool 'true' or 'false' (performance warning)
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\Users\MD\Google Drive\PhD\Modular Robotics\2DGranularMotion\Release\2DGranularMotion.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"TGUI-0.6\lib\SFML" /LIBPATH:C:\Users\MD\Downloads\boost_1_55_0\boost_1_55_0\stage\lib /LIBPATH:"TGUI-0.6\lib\TGUI" "sfml-system.lib" "sfml-window.lib" "sfml-graphics.lib" "sfml-audio.lib" "sfml-network.lib" tgui.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\2DGranularMotion.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\Users\MD\Google Drive\PhD\Modular Robotics\2DGranularMotion\Release\2DGranularMotion.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\Users\MD\Google Drive\PhD\Modular Robotics\2DGranularMotion\Release\2DGranularMotion.lib" /MACHINE:X86 Release\2DGranularMotion.obj
+         Release\Config.obj
+         Release\Environment.obj
+         Release\Face.obj
+         Release\Module.obj
+         Release\Robot.obj
+         Generating code
+     1>g:\users\md\google drive\phd\modular robotics\2dgranularmotion\2dgranularmotion\module.cpp(441): warning C4715: 'Module::HasNeighbour' : not all control paths return a value
+         Finished generating code
+         2DGranularMotion.vcxproj -> G:\Users\MD\Google Drive\PhD\Modular Robotics\2DGranularMotion\Release\2DGranularMotion.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"G:\Users\MD\Google Drive\PhD\Modular Robotics\2DGranularMotion\Release\2DGranularMotion.exe;#1" /manifest Release\2DGranularMotion.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\2DGranularMotion.unsuccessfulbuild".
+         Touching "Release\2DGranularMotion.lastbuildstate".
+     1>Done Building Project "G:\Users\MD\Google Drive\PhD\Modular Robotics\2DGranularMotion\2DGranularMotion\2DGranularMotion.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.68
